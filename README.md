@@ -1,6 +1,7 @@
-#182exe
-- Pixel Artist
-- Amuature Coder (JS, HTML, CSS)
+# 182exe
 
-click this :D
+> Pixel Artist
+> Amuature Coder (JS, HTML, CSS)
+
+Website
 https://182exe.github.io/
