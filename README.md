@@ -6,6 +6,5 @@
 `JS`
 `HTML`
 `CSS`
-
-Website
+`Youtuber`
 https://182exe.github.io/
