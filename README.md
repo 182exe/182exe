@@ -1,7 +1,7 @@
 # 182exe
 
 `Pixel Artist`
-`Minecraft God`
+`Minecraft Player`
 `Amuature Programmer`
 `JS`
 `HTML`
