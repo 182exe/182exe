@@ -8,4 +8,6 @@
 `CSS`
 `Youtuber`
 
-https://182exe.github.io/
+https://182exe.xyz/
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
