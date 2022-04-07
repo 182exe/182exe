@@ -10,4 +10,4 @@
 
 https://182exe.xyz/
 
-![](https://img.shields.io/badge/<182exe>-<Dev>-informational?style=for-the-badge&color=#Cd00ff)
+![](https://img.shields.io/badge/Bruh-Moment-informational?style=for-the-badge&color=#Cd00ff)
