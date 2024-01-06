@@ -1,2 +1,2 @@
 # 182exe
-https://182exe.xyz/
+https://182.ooo/
